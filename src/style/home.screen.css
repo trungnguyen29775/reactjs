@@ -1,0 +1,29 @@
+.home-screen-flex
+{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-items: center;
+    font-size: 50px ;
+}
+.flex-item1
+{
+    flex:1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    background-color: lightcoral;
+
+}
+.flex-item2
+{
+    flex:3;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightpink;
+}
